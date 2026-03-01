@@ -1,7 +1,7 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td align="left"><h1>Challenge 48h - Ynov Toulouse 2026</h1></td>
-<td align="right"><img src="img/logo.png" alt="Challenge 48h Ynov Toulouse 2026" width="100"/></td>
+<td align="right"><img src="../img/logo.png" alt="Challenge 48h Ynov Toulouse 2026" width="100"/></td>
 </tr>
 </table>
 
