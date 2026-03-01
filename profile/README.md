@@ -9,6 +9,8 @@
 
 Cette template de README est un guide pour vous aider afin de structurer votre rendu de projet. N'hésitez pas à l'adapter ou surtout à le compléter avec des sections supplémentaires si nécessaire.
 
+# MERCI DE LIRE TOUT AVANT DE COMMENCER À CODER ! (Et de poser des questions qui seraient déjà répondues dans les guidelines techniques)
+
 ## Contexte
 
 Et si on réinventait l’expérience babyfoot à Ynov ? L’objectif de ce hackathon est de moderniser et digitaliser l’usage des babyfoots présents dans le Souk pour créer un service next-gen, pensé pour près de 1000 étudiants !
