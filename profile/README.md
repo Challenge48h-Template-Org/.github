@@ -37,7 +37,7 @@ Nom: Entreprise TEMPLATE CORPORATION
 
 ### Equipe 1
 
-- Eric PHILIPPE (M2 WEBDEV)
+- Eric PHILIPPE (M2 WEBDEV) - Porteur de projet
 - Prenom NOM (B1 INFO)
 - Prenom NOM (B2 INFO)
 - Prenom NOM (B3 INFO)
@@ -46,7 +46,7 @@ Nom: Entreprise TEMPLATE CORPORATION
 
 ### Equipe 2
 
-- Prenom NOM (B1 INFRA)
+- Prenom NOM (B1 INFRA) - Porteur de projet
 - Prenom NOM (B1 IADATA)
 - Prenom NOM (B2 INFO)
 - Prenom NOM (B2 INFO)
@@ -56,7 +56,7 @@ Nom: Entreprise TEMPLATE CORPORATION
 
 ### Equipe 3
 
-- Prenom NOM (B1 INFO)
+- Prenom NOM (B1 INFO) - Porteur de projet
 - Prenom NOM (B1 INFO)
 - Prenom NOM (B2 INFO)
 - Prenom NOM (B2 INFO)
